@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 ![Nines's Github Stats](https://github-readme-stats.vercel.app/api?username=whitelionx&show_icons=true&theme=prussian)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitelionx&layout=compact)
